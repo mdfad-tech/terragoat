@@ -19,3 +19,4 @@ jobs:
           directory: terraform/
           framework: all
           quiet: true
+          output_format: github_failed_only
