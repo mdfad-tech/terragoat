@@ -14,3 +14,4 @@ jobs:
         with:
           directory: terraform/
           framework: all
+          quiet: true
